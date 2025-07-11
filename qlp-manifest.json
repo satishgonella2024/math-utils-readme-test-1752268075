@@ -1,0 +1,31 @@
+{
+  "request": {
+    "id": "f56347c1-8dae-4609-82d1-a5858fc6978f",
+    "constraints": null,
+    "description": "Create a simple Python library for basic math operations",
+    "requirements": "Functions for factorial, fibonacci, and prime number checking"
+  },
+  "version": "1.0",
+  "contents": {
+    "files": [
+      "src/main.py",
+      "src/__init__.py",
+      "tests/test_main.py",
+      "tests/__init__.py",
+      "requirements.txt",
+      "Dockerfile",
+      ".gitignore",
+      "README.md"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "frameworks": [],
+    "total_size": 522
+  },
+  "metadata": {
+    "version": "2.0",
+    "generator": "QLP Enhanced Capsule Generator"
+  },
+  "created_at": "2025-07-11T21:05:58.563005"
+}
